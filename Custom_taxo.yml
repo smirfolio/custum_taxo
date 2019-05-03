@@ -1,0 +1,47 @@
+!!org.obiba.opal.core.domain.taxonomy.Taxonomy
+"name": "Custom_taxo"
+"title":
+  "en": "Cusmo taxo"
+"description":
+  "en": "Cusmo taxo"
+"attributes": {}
+"keywords": {}
+"vocabularies":
+- "name": "toto term"
+  "title":
+    "en": "toto term"
+  "description":
+    "en": "toto term"
+  "attributes": {}
+  "keywords": {}
+  "terms": []
+- "name": "toto(term)"
+  "title":
+    "en": "toto(term)"
+  "description":
+    "en": "toto(term)"
+  "attributes": {}
+  "keywords": {}
+  "terms": []
+- "name": "toto (term) space"
+  "title":
+    "en": "toto (term) space"
+  "description":
+    "en": "toto (term) space"
+  "attributes": {}
+  "keywords": {}
+  "terms": []
+- "name": "toto[term]"
+  "title":
+    "en": "toto[term]"
+  "description":
+    "en": "toto[term]"
+  "attributes": {}
+  "keywords": {}
+  "terms": []
+- "name": "fff  fff"
+  "title": {}
+  "description": {}
+  "attributes": {}
+  "keywords": {}
+  "terms": []
