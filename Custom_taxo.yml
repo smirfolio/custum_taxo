@@ -7,23 +7,23 @@
 "attributes": {}
 "keywords": {}
 "vocabularies":
-- "name": "toto term"
+- "name": "toto_term"
   "title":
     "en": "toto term"
   "description":
     "en": "toto term"
   "attributes": {}
   "keywords": {}
-  "terms": []
-- "name": "toto(term)"
-  "title":
-    "en": "toto(term)"
-  "description":
-    "en": "toto(term)"
-  "attributes": {}
-  "keywords": {}
-  "terms": []
-- "name": "toto (term) space"
+  "terms":
+  - "name": "toto tertem"
+    "title":
+      "en": "toto tertem"
+    "description":
+      "en": "toto tertem"
+    "attributes": {}
+    "keywords": {}
+    "terms": []
+- "name": "toto__term__space"
   "title":
     "en": "toto (term) space"
   "description":
@@ -31,17 +31,11 @@
   "attributes": {}
   "keywords": {}
   "terms": []
-- "name": "toto[term]"
+- "name": "toto_term_"
   "title":
     "en": "toto[term]"
   "description":
     "en": "toto[term]"
-  "attributes": {}
-  "keywords": {}
-  "terms": []
-- "name": "fff  fff"
-  "title": {}
-  "description": {}
   "attributes": {}
   "keywords": {}
   "terms": []
